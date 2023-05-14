@@ -56,7 +56,9 @@ https://www.anaconda.com/download
 Telepítés után meg kell nyitni a Jupyter Notebook alkalmazást.
 Az alkalmazás megkérdezi milyen böngészőből szeretné futtatni. 
 Kiválasztás után a Dokumentumok mappából el lehet navigálni a letöltött mappához ami korábban letöltésre került a CODE mappából.
+
 ## 🚀 Rólam
+
 Csík Ákos
 
 IEX9ME
